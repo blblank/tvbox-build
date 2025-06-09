@@ -24,7 +24,8 @@ jobs:
             repoUrl: https://github.com/q215613905/TVBoxOS
             branchName: main
           - userName: takagen99
-            repoUrl: https://github.com/takagen99/Box
+            # repoUrl: https://github.com/takagen99/Box
+            repoUrl: https://github.com/blblank/Box
             branchName: main
             javaVersion: 17
     env:
